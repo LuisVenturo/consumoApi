@@ -1,0 +1,30 @@
+[
+  {
+    "Title": "A New Hope",
+    "Episode_id": 4,
+    "Director": "George Lucas",
+    "Producer": "Gary Kurtz, Rick McCallum",
+    "Release_date": "1977-05-25"
+  },
+  {
+    "Title": "The Empire Strikes Back",
+    "Episode_id": 5,
+    "Director": "Irvin Kershner",
+    "Producer": "Gary Kurtz, Rick McCallum",
+    "Release_date": "1980-05-17"
+  },
+  {
+    "Title": "Return of the Jedi",
+    "Episode_id": 6,
+    "Director": "Richard Marquand",
+    "Producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+    "Release_date": "1983-05-25"
+  },
+  {
+    "Title": "The Phantom Menace",
+    "Episode_id": 1,
+    "Director": "George Lucas",
+    "Producer": "Rick McCallum",
+    "Release_date": "1999-05-19"
+  }
+]
